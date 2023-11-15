@@ -151,8 +151,8 @@ This module also includes a potentiometer that will fix the threshold value, & t
 
 ## Program :
 ```
-Developed by : S Kantha Sishanth
-Register No. : 212222100020
+Developed by : Keerthi Vasan A
+Register No. : 212222240048
 ```
 ```c
 #include "main.h"
